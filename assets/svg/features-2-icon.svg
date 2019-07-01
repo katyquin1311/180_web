@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="76" height="76" viewBox="0 0 76 76">
+    <defs>
+        <linearGradient id="c" x1="50%" x2="50%" y1="0%" y2="418.755%">
+            <stop offset="0%" stop-color="#FFF"/>
+            <stop offset="100%" stop-color="#879CC0"/>
+        </linearGradient>
+        <ellipse id="b" cx="37.744" cy="38" rx="37.744" ry="38"/>
+        <filter id="a" width="202%" height="201.3%" x="-49.7%" y="-48%" filterUnits="objectBoundingBox">
+            <feOffset dx="1" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="12.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.267425519 0 0 0 0 0 0 0 0 0 0.328417304 0 0 0 0 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g transform="translate(.5)">
+            <use fill="#000" filter="url(#a)" xlink:href="#b"/>
+            <use fill="url(#c)" xlink:href="#b"/>
+        </g>
+        <g stroke="#83139E" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+            <path d="M39.69 36.795h1.7a2.874 2.874 0 0 1 2.883 2.865v5.728m.092-6.3h1.65a2.874 2.874 0 0 1 2.883 2.863v4.11M37.93 56.845c-5.046-3.078-4.47-6.766-10.407-12.484-.347-.335-.457-1.174-.006-1.623a3.36 3.36 0 0 1 4.218-.423c1.144.754 2.457 1.686 3.312 2.5-.112-1.542.333-10.215.543-14.126a2.029 2.029 0 0 1 2.034-1.912A2.03 2.03 0 0 1 39.66 30.8v14.016"/>
+            <path d="M48.901 41.378h1.14c1.591 0 2.521 1.146 2.882 2.865.413 1.967.577 4.295.577 8.019 0 2.864-1.73 5.728-1.73 5.728 0 2.215-1.807 4.01-4.037 4.01h-7.497c-2.229 0-4.037-1.795-4.037-4.01v-2.234M35.046 44.815v1.719"/>
+            <path d="M49.925 57.417h.336c1.407 0 2.39-.86 2.835-2.53M22.5 29.586l3.24.023M48.628 29.609l3.24-.023M23.618 35.168l2.994-1.209M47.757 25.259l2.994-1.255M26.8 39.9l2.292-2.253M45.276 21.57l2.291-2.298M37.184 18.241V15M29.092 21.57l-2.291-2.298M23.618 24.004l2.994 1.255M47.757 33.959l2.994 1.209M31.565 16.11l1.24 2.997M41.564 19.107l1.24-2.997"/>
+        </g>
+    </g>
+</svg>

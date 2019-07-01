@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="322" height="323" viewBox="0 0 322 323">
+    <defs>
+        <linearGradient id="a" x1="50%" x2="50%" y1="2.942%" y2="100%">
+            <stop offset="0%" stop-color="#B1EB53"/>
+            <stop offset="100%" stop-color="#45C10E"/>
+        </linearGradient>
+        <linearGradient id="b" x1="50%" x2="50%" y1="100%" y2="2.942%">
+            <stop offset="0%" stop-color="#FFEF68"/>
+            <stop offset="100%" stop-color="#E29823"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="nonzero">
+        <path fill="url(#a)" d="M193.794 0l86.13 43.065v26.916L86.13 166.878 0 123.813V96.897z" transform="translate(28.458 69.215)"/>
+        <path fill="#AFEB51" d="M222.251 69.215l86.131 43.065-193.794 96.897-86.13-43.066z"/>
+        <path fill="#FFF" d="M141.502 109.643l86.094 43.116v26.697l-13.263 6.506v-26.568L128.81 115.9z"/>
+        <path fill="url(#a)" d="M193.794 0l86.13 43.065v26.916L86.13 166.878 0 123.813V96.897z" transform="translate(15 36.916)"/>
+        <path fill="#AFEB51" d="M208.794 36.916l86.13 43.065-193.794 96.897L15 133.813z"/>
+        <path fill="#FFF" d="M128.044 77.344l86.094 43.116v26.697l-13.263 6.506v-26.568L115.353 83.6z"/>
+        <g>
+            <path fill="url(#a)" d="M193.794 0l86.13 43.065v26.916L86.13 166.878 0 123.813V96.897z" transform="translate(41.916 10)"/>
+            <path fill="#AFEB51" d="M235.71 10l86.13 43.065-193.794 96.897-86.13-43.065z"/>
+            <path fill="#FFF" d="M154.96 50.429l86.094 43.115v26.697l-13.263 6.507v-26.569l-85.523-43.495z"/>
+        </g>
+        <g>
+            <g>
+                <path fill="url(#b)" d="M43.5 278c24.024 0 43.5-9.328 43.5-20.835V22.787H0v234.378C0 268.672 19.476 278 43.5 278z"/>
+                <ellipse cx="43.5" cy="20.508" fill="#FEEC65" rx="43.5" ry="20.508"/>
+            </g>
+            <g transform="translate(87 123)">
+                <path fill="url(#b)" d="M43.5 141c24.024 0 43.5-9.31 43.5-20.794V22.742H0v97.464C0 131.69 19.476 141 43.5 141z"/>
+                <ellipse cx="43.5" cy="20.468" fill="#FEEC65" rx="43.5" ry="20.468"/>
+            </g>
+            <g transform="translate(55 227)">
+                <path fill="url(#b)" d="M43 96c23.748 0 43-9.357 43-20.899V22.857H0v52.244C0 86.643 19.252 96 43 96z"/>
+                <ellipse cx="43" cy="20.571" fill="#FEEC65" rx="43" ry="20.571"/>
+            </g>
+        </g>
+    </g>
+</svg>
