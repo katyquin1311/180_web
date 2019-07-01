@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="76" height="76" viewBox="0 0 76 76">
+    <defs>
+        <linearGradient id="c" x1="50%" x2="50%" y1="0%" y2="418.755%">
+            <stop offset="0%" stop-color="#FFF"/>
+            <stop offset="100%" stop-color="#879CC0"/>
+        </linearGradient>
+        <ellipse id="b" cx="37.744" cy="38" rx="37.744" ry="38"/>
+        <filter id="a" width="202%" height="201.3%" x="-49.7%" y="-48%" filterUnits="objectBoundingBox">
+            <feOffset dx="1" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="12.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.267425519 0 0 0 0 0 0 0 0 0 0.328417304 0 0 0 0 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <use fill="#000" filter="url(#a)" xlink:href="#b"/>
+            <use fill="url(#c)" xlink:href="#b"/>
+        </g>
+        <g stroke="#83139E" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+            <path d="M30.762 38.691l4.825 5.531L45.238 30"/>
+            <path d="M38 18.726c2.874 2.13 8.006 5.02 15.381 5.761v12.725c0 5.514-2.665 10.799-7.129 14.141L38 57.53l-8.252-6.177c-4.464-3.342-7.129-8.627-7.129-14.141V24.487c7.375-.742 12.507-3.63 15.381-5.761"/>
+            <path d="M57 21.111C44.333 21.111 38 14 38 14s-6.333 7.111-19 7.111v16.1c0 6.66 3.164 12.936 8.555 16.97L38 62l10.445-7.819C53.836 50.147 57 43.871 57 37.211v-16.1z"/>
+        </g>
+    </g>
+</svg>
