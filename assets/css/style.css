@@ -103,11 +103,11 @@ img {
 }
 
 a {
-    color: #f77ade;
+    color: #FB425A;
     -webkit-transition: all .2s;
     transition: all .2s;
 }
-a:hover { color: #f77ade; }
+a:hover { color: #FB425A; }
 a,
 a:hover,
 a:active,
@@ -731,7 +731,7 @@ label input[type=radio] {
 }
 .main-header .header-menu > ul > li:hover > a, 
 .main-header .header-menu > ul > li.active > a {
-    color: #f77ade;
+    color: #FB425A;
     font-weight: 400;
 }
 
@@ -1038,8 +1038,8 @@ label input[type=radio] {
 }
 
 .banner-text-inner .btn {
-    background: #f77ade;
-    border-color: #f77ade;
+    background: #FB425A;
+    border-color: #FB425A;
     color: #fff;
 }
 .banner-text-inner .btn:hover {
@@ -1176,12 +1176,12 @@ label input[type=radio] {
     right: -12%;
 }
 .main-header.inner-header.header-2 .btn:hover {
-    background: #f77ade;
+    background: #FB425A;
     border-color: transparent;
 }
 
 .main-header.inner-header.header-2 .btn::before {
-    background: #f77ade;
+    background: #FB425A;
 }
 .main-header.sticky {
     padding: 15px 0;
@@ -1270,9 +1270,9 @@ label input[type=radio] {
 }
 .gradient-bg {
     background:#FB425A;
-    background: -webkit-linear-gradient(left,#FB425A 0%,#f77ade 100%);
-    background: linear-gradient(to right,#FB425A 0%,#f77ade 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5b39c9', endColorstr='#f77ade',GradientType=1 );
+    background: -webkit-linear-gradient(left,#FB425A 0%,#FB425A 100%);
+    background: linear-gradient(to right,#FB425A 0%,#FB425A 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5b39c9', endColorstr='#FB425A',GradientType=1 );
 }
 
 /*===========================================
@@ -1319,7 +1319,7 @@ label input[type=radio] {
     margin-left: -150px;
 }
 .user-interact-inner .interact-icon svg#Capa_1 {
-    fill: #f77ade;
+    fill: #FB425A;
 }
 .bg-2 {
     background: #f7f6f9;
@@ -1485,7 +1485,7 @@ section.app-video:before {
 .single-price-top span {
     font-size: 60px;
     font-weight: 200;
-    color: #f77ade;
+    color: #FB425A;
     display: block;
     line-height: 40px;
 }
@@ -1547,7 +1547,7 @@ section.app-video:before {
 }
 .price--nav-inner .info-tabs a {
     padding: 10px 30px;
-    color: #f77ade;
+    color: #FB425A;
     font-size: 14px;
     font-weight: 600;
     position: relative;
@@ -1574,7 +1574,7 @@ section.app-video:before {
 .price--nav-inner .info-tabs a.active {
     color: #fff;
     z-index: 1;
-    background: #f77ade;
+    background: #FB425A;
 }
 .single-price-plan.active .btn {
     color: #fff;
@@ -1659,7 +1659,7 @@ section.app-video:before {
 }
 
 .single-author-comment p {
-    color: #f77ade;
+    color: #FB425A;
     margin-bottom: 0;
 }
 /* =====================================================
@@ -1706,7 +1706,7 @@ section.app-video:before {
     color: #36324a;
 }
 .single-blog-inner .post-title h3:hover a{
-    color: #f77ade;
+    color: #FB425A;
 }
 
 .single-blog-inner {
@@ -1726,7 +1726,7 @@ section.app-video:before {
 }
 
 .single-blog-inner .post-details a:hover{
-    color: #f77ade;
+    color: #FB425A;
 }
 .post-details {
     padding: 47px 0 0 0;
@@ -1743,7 +1743,7 @@ section.app-video:before {
 }
 
 .single-blog-inner .post-info  a {
-    color: #f77ade;
+    color: #FB425A;
     font-weight: 500;
     font-size: 14px;
     line-height: 1;
@@ -1757,7 +1757,7 @@ section.app-video:before {
     position: absolute;
     height: 2px;
     width: 2px;
-    background: #f77ade;
+    background: #FB425A;
     left: -15px;
     bottom: 2px;
 }
@@ -1848,8 +1848,8 @@ section.app-video:before {
 
 .theme-pagination li.active a {
     color: #fff;
-    border-color: #f77ade;
-    background: #f77ade;
+    border-color: #FB425A;
+    background: #FB425A;
 }
 
 .theme-pagination li:last-child a, .theme-pagination li:first-child a {
@@ -1867,7 +1867,7 @@ section.app-video:before {
 }
 
 .theme-pagination li a:hover {
-    background: #f77ade;
+    background: #FB425A;
     color: #fff;
 }
 
@@ -2098,7 +2098,7 @@ section.app-video:before {
     line-height: 1;
 }
 .social-list li a:hover {
-    color: #f77ade;
+    color: #FB425A;
 }
 .post-tag-share {
     -webkit-box-pack: justify;
@@ -2199,7 +2199,7 @@ section.app-video:before {
 .comment-author-content h6 {
     font-size: 14px;
     margin-bottom: 34px;
-    color: #f77ade;
+    color: #FB425A;
     font-weight: 400;
 }
 
@@ -2288,9 +2288,9 @@ section.app-video:before {
     margin-bottom: 80px;
 }
 .download-app-inner .btn {
-    border-color: #f77ade;
+    border-color: #FB425A;
     color: #fff;
-    background: #f77ade;
+    background: #FB425A;
     margin-bottom: 4px;
     font-size: 20px;
     font-weight: 600;
@@ -2330,7 +2330,7 @@ footer.footer {
 }
 .address-list li:hover span i,
 .widget-body .extra-link .link-right ul li a:hover, .widget-body .extra-link .link-left ul li a:hover {
-    color: #f77ade;
+    color: #FB425A;
 }
 .footer-widget .footer-logo {
     margin-bottom: 38px;
@@ -2384,7 +2384,7 @@ footer.footer {
     font-size: 20px;
 }
 .social-icons li a:hover{
-    color: #f77ade;
+    color: #FB425A;
 }
 .footer-post-details:after {
     height: 31px;
@@ -2415,7 +2415,7 @@ footer.footer {
 
 .twetter-post span {
     margin-right: 7px;
-    color: #f77ade;
+    color: #FB425A;
     font-size: 20px;
 }
 .footer-post-details {
@@ -2497,10 +2497,10 @@ footer.footer {
     right: 0;
     bottom: 0;
     background:#FB425A;
-    background: -webkit-linear-gradient(left, #f77ade 0%,#FB425A 100%);
-    background: -webkit-linear-gradient(left, #f77ade 0%,#5b39c9 100%);
-    background: linear-gradient(to right, #f77ade 0%,#5b39c9 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f77ade', endColorstr='#5b39c9',GradientType=1 );
+    background: -webkit-linear-gradient(left, #FB425A 0%,#FB425A 100%);
+    background: -webkit-linear-gradient(left, #FB425A 0%,#5b39c9 100%);
+    background: linear-gradient(to right, #FB425A 0%,#5b39c9 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#FB425A', endColorstr='#5b39c9',GradientType=1 );
     opacity: .85;
 }
 .inner-header.sticky a.btn {
